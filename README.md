@@ -17,7 +17,8 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,terraform,aws,gcp" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,sass,js,wordpress,ts,react,next,tailwind,remix,redux" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vscode,vite,supabase,vercel,nodejs" />
 <br>
 
 
@@ -25,8 +26,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=username&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&theme=vue-dark&layout=compact" />
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ryuta09&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ryuta09/github-readme-stats#gh-dark-mode-only)
 </div>
 
 
