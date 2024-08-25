@@ -6,7 +6,7 @@
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,sass,js,wordpress,ts,react,next,tailwind,remix,redux" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vscode,vite,supabase,vercel,nodejs,docker" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vscode,vite,supabase,vercel,nodejs" />
 <br>
 
 
